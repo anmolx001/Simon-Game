@@ -1,0 +1,18 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "Simon Game App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Simon Game"
+  },
+  "author": "Anmol Chhabra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
